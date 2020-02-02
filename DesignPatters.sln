@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{FD9D060F-B3C9-4F7F-9947-70B9E0C68D46}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBuilder", "SimpleBuilder\SimpleBuilder.csproj", "{FD9D060F-B3C9-4F7F-9947-70B9E0C68D46}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalBuilder", "FunctionalBuilder\FunctionalBuilder.csproj", "{292A596E-CDEF-45CC-82E3-2B644A70BAD3}"
@@ -15,6 +13,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StronglyTypedBuilder", "StronglyTypedBuilder\StronglyTypedBuilder.csproj", "{938521CB-BDBA-4399-9C8C-825BD7E3CE21}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmutableBuilder", "ImmutableBuilder\ImmutableBuilder.csproj", "{8589A228-AD25-44CA-B314-B588F99D53B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factories", "Factories", "{8B7E6CD6-1866-4A91-B726-C61F144DD884}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
