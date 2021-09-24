@@ -1,32 +1,32 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBuilder", "SimpleBuilder\SimpleBuilder.csproj", "{FD9D060F-B3C9-4F7F-9947-70B9E0C68D46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBuilder", "Builder\SimpleBuilder\SimpleBuilder.csproj", "{FD9D060F-B3C9-4F7F-9947-70B9E0C68D46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalBuilder", "FunctionalBuilder\FunctionalBuilder.csproj", "{292A596E-CDEF-45CC-82E3-2B644A70BAD3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalBuilder", "Builder\FunctionalBuilder\FunctionalBuilder.csproj", "{292A596E-CDEF-45CC-82E3-2B644A70BAD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacetedBuilder", "FacetedBuilder\FacetedBuilder.csproj", "{0496459D-27F0-40D1-AD40-5891380487C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacetedBuilder", "Builder\FacetedBuilder\FacetedBuilder.csproj", "{0496459D-27F0-40D1-AD40-5891380487C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderExercise", "BuilderExercise\BuilderExercise.csproj", "{DD47BEC4-DB45-4D07-8A0D-6A872BEC3F0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderExercise", "Builder\BuilderExercise\BuilderExercise.csproj", "{DD47BEC4-DB45-4D07-8A0D-6A872BEC3F0C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Builder", "Builder", "{59655D4F-499A-4EE7-B048-F19DC6D8255B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StronglyTypedBuilder", "StronglyTypedBuilder\StronglyTypedBuilder.csproj", "{938521CB-BDBA-4399-9C8C-825BD7E3CE21}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StronglyTypedBuilder", "Builder\StronglyTypedBuilder\StronglyTypedBuilder.csproj", "{938521CB-BDBA-4399-9C8C-825BD7E3CE21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmutableBuilder", "ImmutableBuilder\ImmutableBuilder.csproj", "{8589A228-AD25-44CA-B314-B588F99D53B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmutableBuilder", "Builder\ImmutableBuilder\ImmutableBuilder.csproj", "{8589A228-AD25-44CA-B314-B588F99D53B6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factories", "Factories", "{8B7E6CD6-1866-4A91-B726-C61F144DD884}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{625F1CBC-45F0-4009-A02D-6C4D7ABA9758}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "Factories\FactoryMethod\FactoryMethod.csproj", "{625F1CBC-45F0-4009-A02D-6C4D7ABA9758}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousFactoryMethod", "AsynchronousFactoryMethod\AsynchronousFactoryMethod.csproj", "{C42F4A88-9201-4626-A9F9-2E6B47E1FA59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousFactoryMethod", "Factories\AsynchronousFactoryMethod\AsynchronousFactoryMethod.csproj", "{C42F4A88-9201-4626-A9F9-2E6B47E1FA59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceBuilder", "InheritanceBuilder\InheritanceBuilder.csproj", "{39873F97-97B1-42B6-BA68-06D8679AFED8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceBuilder", "Builder\InheritanceBuilder\InheritanceBuilder.csproj", "{39873F97-97B1-42B6-BA68-06D8679AFED8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{42174E1C-8B3E-4526-B937-D14730F458DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factories\Factory\Factory.csproj", "{42174E1C-8B3E-4526-B937-D14730F458DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternalFactory", "InternalFactory\InternalFactory.csproj", "{6DAE50C7-500E-4FE9-9A25-330BA22B008C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternalFactory", "Factories\InternalFactory\InternalFactory.csproj", "{6DAE50C7-500E-4FE9-9A25-330BA22B008C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryExercise", "FactoryExercise\FactoryExercise.csproj", "{EC9FA21F-7219-4907-9830-1F4601D2FA51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryExercise", "Factories\FactoryExercise\FactoryExercise.csproj", "{EC9FA21F-7219-4907-9830-1F4601D2FA51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
