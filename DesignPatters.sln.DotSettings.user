@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4845fde5_002Dbc68_002D49ee_002Da3cd_002Dce09f47280be/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ConfigurableTotalSumTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::170E89F9-728C-43C4-A68E-CA62E850AF4A::net5.0::SingletonUsingDI.UnitTests.ConfigurableTotalSumTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=71fc6241_002D2cad_002D4960_002D8ddc_002D41b5ad9069de/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::170E89F9-728C-43C4-A68E-CA62E850AF4A::net5.0::SingletonUsingDI.UnitTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f97d53fa_002D62ff_002D43db_002Da8af_002Da44330371aac/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UnitTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::170E89F9-728C-43C4-A68E-CA62E850AF4A::net5.0::SingletonUsingDI.UnitTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
