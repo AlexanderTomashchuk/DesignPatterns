@@ -48,7 +48,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPerThread", "Singl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonUsingDI", "Singleton\SingletonUsingDI\SingletonUsingDI.csproj", "{170E89F9-728C-43C4-A68E-CA62E850AF4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmbientContext", "Singleton\AmbientContext\AmbientContext.csproj", "{B883576D-B50F-4C69-9DF8-1B18CCAFE119}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmbientContext", "AmbientContext\AmbientContext\AmbientContext.csproj", "{B883576D-B50F-4C69-9DF8-1B18CCAFE119}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AmbientContext", "AmbientContext", "{DF85E750-782C-43AD-9F74-0274A9AED29C}"
 EndProject
