@@ -1,0 +1,3 @@
+Apple|10.5
+Banana|15.32
+Orange|23.75
