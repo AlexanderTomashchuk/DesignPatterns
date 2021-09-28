@@ -62,6 +62,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DI", "DI", "{700EFAD8-6068-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResolvingDependencyOfMultipleImplementationsOfSameInterface", "DI\ResolvingDependencyOfMultipleImplementationsOfSameInterface\ResolvingDependencyOfMultipleImplementationsOfSameInterface.csproj", "{3131EE71-0E5B-4B86-95BA-E86F7A76F835}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter\Adapter.csproj", "{AF881B99-E742-4454-A90A-E0BF19E5B27B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -164,6 +166,10 @@ Global
 		{3131EE71-0E5B-4B86-95BA-E86F7A76F835}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3131EE71-0E5B-4B86-95BA-E86F7A76F835}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3131EE71-0E5B-4B86-95BA-E86F7A76F835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF881B99-E742-4454-A90A-E0BF19E5B27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF881B99-E742-4454-A90A-E0BF19E5B27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF881B99-E742-4454-A90A-E0BF19E5B27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF881B99-E742-4454-A90A-E0BF19E5B27B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{FD9D060F-B3C9-4F7F-9947-70B9E0C68D46} = {59655D4F-499A-4EE7-B048-F19DC6D8255B}
@@ -190,5 +196,6 @@ Global
 		{73B88367-D62B-4335-AE73-1E2EDA6AE7DB} = {DF85E750-782C-43AD-9F74-0274A9AED29C}
 		{93C9C195-4FB4-4B34-8D7A-F837A9453109} = {06D6BD21-C38E-42A8-ADF5-5EC2DEEC2C81}
 		{3131EE71-0E5B-4B86-95BA-E86F7A76F835} = {700EFAD8-6068-4C16-B3ED-A1ED3D028BB8}
+		{AF881B99-E742-4454-A90A-E0BF19E5B27B} = {06D6BD21-C38E-42A8-ADF5-5EC2DEEC2C81}
 	EndGlobalSection
 EndGlobal
