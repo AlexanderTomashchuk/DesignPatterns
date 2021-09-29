@@ -80,6 +80,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite2", "Composite\Com
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeSpecification", "Composite\CompositeSpecification\CompositeSpecification.csproj", "{38FD3FED-1039-48AC-88A5-C93684C3CCEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeExercise", "Composite\CompositeExercise\CompositeExercise.csproj", "{3B5B54DE-9F3C-4FFC-85DF-DA87E14E7FED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -210,6 +212,10 @@ Global
 		{38FD3FED-1039-48AC-88A5-C93684C3CCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38FD3FED-1039-48AC-88A5-C93684C3CCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38FD3FED-1039-48AC-88A5-C93684C3CCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5B54DE-9F3C-4FFC-85DF-DA87E14E7FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5B54DE-9F3C-4FFC-85DF-DA87E14E7FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5B54DE-9F3C-4FFC-85DF-DA87E14E7FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5B54DE-9F3C-4FFC-85DF-DA87E14E7FED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{FD9D060F-B3C9-4F7F-9947-70B9E0C68D46} = {59655D4F-499A-4EE7-B048-F19DC6D8255B}
@@ -243,5 +249,6 @@ Global
 		{FCB6AE2E-D347-4054-BFF9-E13D53C4B8A0} = {04CAA0E7-A402-4AEE-9F8D-B673B40EEF58}
 		{45414AA6-6AD3-4DA0-B2A6-562B2C75CA8B} = {04CAA0E7-A402-4AEE-9F8D-B673B40EEF58}
 		{38FD3FED-1039-48AC-88A5-C93684C3CCEB} = {04CAA0E7-A402-4AEE-9F8D-B673B40EEF58}
+		{3B5B54DE-9F3C-4FFC-85DF-DA87E14E7FED} = {04CAA0E7-A402-4AEE-9F8D-B673B40EEF58}
 	EndGlobalSection
 EndGlobal
