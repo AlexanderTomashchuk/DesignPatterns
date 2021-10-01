@@ -62,18 +62,23 @@ namespace FluentAPI
             return this;
         }
 
+        //todo: try to use StringBuilder
+        //connectionString.Append($"Port={port}");
         public IUserSelectionStage OnPort(int port)
         {
             _port = port;
             return this;
         }
 
+        //todo: try to implement token signin as well as user signin
+        //todo: try to use StringBuilder
         public IPasswordSelectionStage AsUser(string username)
         {
             _username = username;
             return this;
         }
 
+        //todo: try to use StringBuilder
         public IConnectionInitializerStage WithPassword(string password)
         {
             _password = password;
@@ -82,6 +87,7 @@ namespace FluentAPI
 
         public IFakeDBConnection Connect()
         {
+            //todo: remove connectionString formatting from here
             var connection = new SqlConnection($"Server={_server};Database={_database};Port={_port};User Id={_username};Password={_password};");
             connection.Open();
             return connection;
